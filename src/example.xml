@@ -1,10 +1,10 @@
 <?xml version = "1.0"?>
 <data>
    <city name = "Chennai" population="698292">
-      <area>86</area>
+      <area>346</area>
    </city>
    <city name = "Delhi" population="698921">
-      <area>89</area>
+      <area>985</area>
    </city>
    <city name = "Mumbai" population="6229890">
       <area>9022</area>
